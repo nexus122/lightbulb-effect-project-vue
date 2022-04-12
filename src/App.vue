@@ -15,8 +15,12 @@ export default {
 
 <template>  
   <main>
+<<<<<<< HEAD
     <!-- Mensaje -->
     <h1>Rama master</h1>
+=======
+    <!-- Mensaje -->
+>>>>>>> reverse
     <h1 v-if="lucesEncendidas < this.luces.length">Pulsa en las bombillas el numero que te indican para encenderlas</h1>
     <h1 v-else>Todas las bombillas han sido encendidas</h1>
 
