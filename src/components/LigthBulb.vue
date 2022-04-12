@@ -32,7 +32,6 @@ export default {
         this.$emit("switchedOn", -1);
         this.clicks = 0;
       }
-
     },
   },
 };
