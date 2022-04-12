@@ -15,7 +15,8 @@ export default {
 
 <template>  
   <main>
-    <!-- Mensaje -->    
+    <!-- Mensaje -->   
+    <h1> Reverse </h1> 
     <h1 v-if="lucesEncendidas < this.luces.length">Pulsa en las bombillas el numero que te indican para encenderlas</h1>
     <h1 v-else>Todas las bombillas han sido encendidas</h1>
 
