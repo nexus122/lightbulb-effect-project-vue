@@ -8,3 +8,4 @@
 
 ### Bonus
 - [x] Deben poderse reiniciar las bombillas si pulsas una vez extra.
+- [x] Deben poder añadirse bombillas y su numero para encenderlas.
